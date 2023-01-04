@@ -123,9 +123,9 @@ Website URL: <https://gpt3-aiv2.netlify.app/>
 
 - You can check out [Traversy Media](https://www.youtube.com/watch?v=0xMQfnTU6oo&t=79s) for understanding CSS Grid.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
