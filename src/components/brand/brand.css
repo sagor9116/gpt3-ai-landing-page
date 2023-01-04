@@ -1,0 +1,23 @@
+.brand {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.brand div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex: 1;
+	max-width: 150px;
+	min-width: 120px;
+	margin: 1rem;
+}
+
+@media screen and (min-width: 540px) {
+	.brand {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+}
