@@ -37,7 +37,7 @@ This project is bootstrapped with [Create React App](https://github.com/facebook
 You can download the zip file from github. After downloading the zip file go to the downloaded folder and extract the folder. select the extracted folder and open your terminal.
 Then run the command
 
-### ```npm install```` or ```npm i``` to download the necessary dependencies for the project.
+### `npm install` or `npm i` to download the necessary dependencies for the project.
 
 ## In the project directory, you can run:
 
