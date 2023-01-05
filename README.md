@@ -9,7 +9,7 @@ This project is built with **REACT**. Primary goal of this project is to build a
 - ## [GPT3 OPEN AI landing page](#gpt3)
 - [1. Table of contents](#table-of-contents) 📝
 - [2. Overview](#overview) 🎯
-  - [The challanges](#the-challenges)
+  - [The challenges](#the-challenges)
   - [How to run the projects](#how-to-run-the-projects)
   - [Links](#links)
 - [3. Screenshots](#screenshots) 📷
@@ -21,7 +21,7 @@ This project is built with **REACT**. Primary goal of this project is to build a
 
 # **2. Overview 🎯**
 
-## The challanges
+## The challenges
 
 This is a static landing page, with no user activity but users should be able to:
 
