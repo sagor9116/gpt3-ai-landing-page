@@ -19,7 +19,7 @@ This project is built with **REACT**. Primary goal of this project is to build a
   - [Useful resources](#useful-resources)
 - [5. Author](#author) 🙋🏻
 
-# **2. Overview 🎯**
+# Overview
 
 ## The challenges
 
