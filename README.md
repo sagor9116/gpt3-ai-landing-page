@@ -7,7 +7,7 @@ This project is built with **REACT**. Primary goal of this project is to build a
 # **1. Table of contents 📝**
 
 - ## [GPT3 OPEN AI landing page](#gpt3)
-- [1. Table of content](#table-of-content) 📝
+- [1. Table of contents](#table-of-contents) 📝
 - [2. Overview](#overview) 🎯
   - [The challanges](#the-challenges)
   - [How to run the projects](#how-to-run-the-projects)
