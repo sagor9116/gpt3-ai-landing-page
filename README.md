@@ -13,7 +13,7 @@ This project is built with **REACT**. Primary goal of this project is to build a
   - [How to run the projects](#how-to-run-the-projects)
   - [Links](#links)
 - [3. Screenshots](#screenshots) 📷
-- [4. My process](#my-process) ✨
+- [**4. My process ✨**](#my-process) ✨
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
