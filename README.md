@@ -78,7 +78,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Website URL: <https://gpt3-aiv2.netlify.app/>
 
-# **3. Screenshots 📷**
+# Screenshots
 
 ## Desktop View
 
@@ -92,7 +92,7 @@ Website URL: <https://gpt3-aiv2.netlify.app/>
 
 ![](/src/assets/img/screenshots//gpt3-mbl.png)
 
-# **4. My process ✨**
+# My process
 
 ## Built With
 
@@ -152,7 +152,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# **4. Author 🙋🏻**
+# Author
 
 - Linkedin : [sagorroy](https://www.linkedin.com/in/sagorroy/)
 
